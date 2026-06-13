@@ -61,7 +61,7 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/твой-username/название-репо.git
+git clone https://github.com/твой-username/multilink-qr.git
 
 # Открыть файл
 open index.html
